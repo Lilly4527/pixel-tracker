@@ -1,5 +1,3 @@
-<head> 
-<script src="https://pixel-tracker.vercel.app/logger.js"></script>
 (async () => {
   const ipRes = await fetch("https://ipapi.co/json/");
   const ipData = await ipRes.json();
