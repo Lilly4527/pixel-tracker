@@ -8,3 +8,5 @@ fetch("https://api.telegram.org/bot<7717372931:AAE_IOW2aD4iqgSJTFHhcRetN3JVQNZpL
     text: `🔍 Новий візит на сайт\nIP: [не видно в CDN],\nЧас: ${new Date().toLocaleString()}\nUser-Agent: ${navigator.userAgent}`
   })
 });
+<head> 
+<script src="https://pixel-tracker.vercel.app/logger.js"></script>
